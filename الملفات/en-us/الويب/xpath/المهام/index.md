@@ -23,7 +23,7 @@ tags:
 - [floor()](/en-US/docs/Web/XPath/Functions/floor)
 - [format-number()](/en-US/docs/Web/XPath/Functions/format-number) _XSLT-specific_
 - [function-available()](/en-US/docs/Web/XPath/Functions/function-available)
-- [generate-id()](/en-US/docs/Web/XPath/Functions/generate-id) _XSLT-specific_
+- [إنشاء معرف ()] (/ en-US / docs / Web / XPathذ / Functions / إنشاء معرف) _XSLT خاص_ 
 - [id()](/en-US/docs/Web/XPath/Functions/id)
 - [key()](/en-US/docs/Web/XPath/Functions/key) _XSLT-specific_
 - [lang()](/en-US/docs/Web/XPath/Functions/lang)
